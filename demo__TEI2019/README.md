@@ -2,6 +2,8 @@
 
 Game used to demonstrate Skweezee at the TEI 2019 WIP session (March 2019).
 
+![Demo TEI 2019](https://github.com/skweezee/Examples/blob/master/demo__TEI2019/photo.jpg)
+
 ## Getting Started
 
 You need the following materials to create this Skweezee:
@@ -10,7 +12,7 @@ You need the following materials to create this Skweezee:
 * An Arduino (with optional Skweezee shield) with running Skweezee sensing code
 * A computer running Processing, including the Skweezee for Processing library
 
-Download the Processing sketch ‘demo__TEI2019.pde’ and run on your computer.
+Connect all materials, download the Processing sketch ‘demo__TEI2019.pde’, and run on your computer.
 
 ## How To Play
 
