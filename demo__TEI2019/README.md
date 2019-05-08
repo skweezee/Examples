@@ -10,7 +10,7 @@ You need the following materials to create this Skweezee:
 * An Arduino (with optional Skweezee shield) with running Skweezee sensing code
 * A computer running Processing, including the Skweezee for Processing library
 
-Download the Processing sketch and run.
+Download the Processing sketch ‘demo__TEI2019.pde’ and run on your computer.
 
 ## How To Play
 
