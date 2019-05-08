@@ -18,7 +18,7 @@ Press any key to start playing; squeeze the soft object to overcome obstacles.
 
 ## Author
 
-* Bert Vandenberghe (bert.vandenberghe@kuleuven.be)
+Bert Vandenberghe (bert.vandenberghe@kuleuven.be)
 
 ## License
 
