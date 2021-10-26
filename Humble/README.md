@@ -1,4 +1,4 @@
-# Skweezee Demo TEI 2019
+# Humble
 
 Game used to demonstrate Skweezee at the TEI 2019 WIP session (March 2019).
 
