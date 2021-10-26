@@ -2,7 +2,7 @@
 
 Game to explore squeeze interactions.
 
-![Ball Drop game](https://github.com/skweezee/Examples/blob/master/BallDrop/BallDrop.png)
+![Ball Drop game](https://github.com/skweezee/Examples/blob/master/BallDrop/ballDrop.png)
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ You need the following materials to create this Skweezee:
 * An Arduino (with optional Skweezee shield) with running Skweezee sensing code
 * A computer running Processing, including the Skweezee for Processing library
 
-Connect all materials, download the Processing sketch ‘BallDrop.pde’, and run on your computer.
+Connect all materials, download the Processing sketch ‘ballDrop.pde’, and run on your computer.
 
 ## How To Play
 
