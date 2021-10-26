@@ -2,7 +2,7 @@
 
 Demo used to demonstrate Skweezee at the Maker Faire in Ghent (May 2019).
 
-![Stranger things](https://github.com/skweezee/Examples/blob/master/StrangerThings/strangerThings.jpg)
+![Stranger things](https://github.com/skweezee/Examples/blob/master/StrangerThings/strangerThings.png)
 
 ## Getting Started
 
