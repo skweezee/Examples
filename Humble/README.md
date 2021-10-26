@@ -2,7 +2,7 @@
 
 Game used to demonstrate Skweezee at the TEI 2019 WIP session (March 2019).
 
-![Demo TEI 2019](https://github.com/skweezee/Examples/blob/master/demo__TEI2019/photo.jpg)
+![Demo TEI 2019](https://github.com/skweezee/Examples/blob/master/Humble/humble.jpg)
 
 ## Getting Started
 
